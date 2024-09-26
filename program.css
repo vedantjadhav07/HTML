@@ -1,0 +1,59 @@
+body{
+    background-color: cadetblue;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+  }
+.main{
+    background-color:darkslategrey; 
+    }
+    
+    .logo{
+        padding-left: 0px;
+        padding-top: 10px;
+        width: 150px;
+        height: 100px;
+        border-radius: 50%;
+    }
+     .name{
+        padding-left: 30px;
+        padding-top: 0px;
+        height: 90px;
+        width: 1000px; 
+        background-color: chocolate;
+        border-radius: 5%;
+    }
+     .log{
+     width: 1500px;
+     height: 150px;
+ }
+
+ a{
+     color: black;}
+
+.mai{
+    padding-left: 25%;
+}
+
+ .manu :hover{
+    color: lime;
+ }
+
+.manu{
+    width: 2000px;
+    height: 20px;
+}
+
+ hr{
+     padding: top 5px; ;
+     background-color: black;
+     height: 5px;
+    }
+.comm{
+    font-style: italic;
+ }
+
+ .end{
+     color: black;
+     background-color: brown;
+ }
